@@ -15,7 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor]
 
 ### Screenshot
 
-![](Screenshot 2025-06-22 230335.png)
+![](/Screenshot 2025-06-22 230335.png)
 
 
 ### Links
